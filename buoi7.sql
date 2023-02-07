@@ -26,5 +26,5 @@ QtyOnHand int
 );
 
 insert into TOYS values (01, 15, 5445, 654, 3-10, 50.000, 500, 20);  
-insert into TOYS values (02, oto, nhua, hanghoa, 3-10, 20.000, 200, 10);  
+insert into TOYS values (02, 'oto', 'nhua', 'hanghoa', 3-10, 20.000, 200, 10);  
 
